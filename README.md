@@ -10,8 +10,8 @@ A fictional light rail network in and around Leeds, West Yorkshire, based loosel
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
-| Speed Limits | :x: |
-| Distances | :x: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
 | Timetable | :x: |
 | Documentation | :x: |
 
