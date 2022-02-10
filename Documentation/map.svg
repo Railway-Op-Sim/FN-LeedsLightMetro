@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="map.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="476.57303"
+     inkscape:cy="434.69042"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 222.99999,270 v -19 c 0,-3.10124 -0.97302,-4.97302 -3,-7 l -19,-19 c -2.05077,-2.13799 -4.52745,-3 -7,-3 H 81 c -3.543755,0 -6,-2.4835 -6,-6 v -14 c 0,-3.5818 2.481938,-6 6,-6 h 41.99999 c 4.47821,0 6.09666,-1.09666 9,-4 l 12,-12 c 3.09821,-3.09821 4.31804,-4 8,-4 h 105 c 4.0067,0 6,-2.29295 6,-6 v -7"
+       id="path817"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <g
+       id="g998"
+       transform="translate(11,7.0000048)">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.20044"
+       y="271.43204"
+       id="text838"><tspan
+         sodipodi:role="line"
+         id="tspan836"
+         x="227.20044"
+         y="271.43204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">Stourton P+R</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 222.99999,256 h 3"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.3584"
+       y="257.17319"
+       id="text838-4"><tspan
+         sodipodi:role="line"
+         id="tspan836-7"
+         x="227.3584"
+         y="257.17319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">Queen Street</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 218.99999,243 2.12132,-2.12132"
+       id="path840-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="221.422"
+       y="240.47777"
+       id="text838-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-9"
+         x="221.422"
+         y="240.47777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">Thwaite Gate</tspan></text>
+    <g
+       id="g908"
+       transform="translate(11,7.0167092)">
+      <text
+         id="text885"
+         y="264.04233"
+         x="208.19211"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:end;text-anchor:end;stroke-width:0.26458332"
+           y="264.04233"
+           x="208.19211"
+           id="tspan883"
+           sodipodi:role="line">P+R</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path887"
+         d="m 202.45898,261.37575 h 5.75282"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path887-0"
+         d="m 202.45898,264.35231 h 5.75282"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 209.99999,234 2.12132,-2.12132"
+       id="path840-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="212.422"
+       y="231.47777"
+       id="text838-4-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-9-6"
+         x="212.422"
+         y="231.47777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">Low Road</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 201.99999,226 2.12132,-2.12132"
+       id="path840-7-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="204.422"
+       y="223.47777"
+       id="text838-4-9-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-9-6-5"
+         x="204.422"
+         y="223.47777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">Knowesthorpe</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.99999,222 c 3.49928,0 6,2.38744 6,6 v 19"
+       id="path952"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 189.99999,235 h 3"
+       id="path840-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="188.61818"
+       y="236.2767"
+       id="text838-4-99"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6"
+         x="188.61818"
+         y="236.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Penny Hill Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="189.37653"
+       y="248.2767"
+       id="text838-4-99-2"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9"
+         x="189.37653"
+         y="248.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Hunslet Carr</tspan></text>
+    <g
+       transform="translate(-18.999999,-15.999995)"
+       id="g998-7">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182"
+       y="214.58574"
+       id="text838-4-99-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7"
+         x="182"
+         y="214.58574"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Hunslet</tspan></text>
+    <g
+       transform="translate(-30,-40.99999)"
+       id="g998-7-3">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-6"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182"
+       y="218.66591"
+       id="text838-4-99-2-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2"
+         x="182"
+         y="218.66591"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="159"
+       y="217.99265"
+       id="text838-4-99-2-6-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-3"
+         x="159"
+         y="217.99265"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Printworks</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.99999,222 v -3"
+       id="path840-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136"
+       y="214.94009"
+       id="text838-4-99-2-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6"
+         x="136"
+         y="214.94009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Crown</tspan></text>
+    <g
+       transform="translate(-76,-40.99999)"
+       id="g998-7-3-2">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-6-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-5-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136"
+       y="218.76041"
+       id="text838-4-99-2-6-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8"
+         x="136"
+         y="218.76041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Point</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115"
+       y="214.00424"
+       id="text838-4-99-2-6-61"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-4"
+         x="115"
+         y="214.00424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Sweet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115"
+       y="218.08441"
+       id="text838-4-99-2-6-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-5"
+         x="115"
+         y="218.08441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Street</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.99999,222 v -3"
+       id="path840-0-5-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95"
+       y="214.00424"
+       id="text838-4-99-2-6-61-4"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-4-5"
+         x="95"
+         y="214.00424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Temple</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95"
+       y="218.08441"
+       id="text838-4-99-2-6-6-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-5-0"
+         x="95"
+         y="218.08441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Works</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95,222 v -3"
+       id="path840-0-5-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.999998,216 v 32 10"
+       id="path1216"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g998-3"
+       transform="translate(-137.00001,-4.9999952)">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-8"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="79.200439"
+       y="259.43204"
+       id="text838-41"><tspan
+         sodipodi:role="line"
+         id="tspan836-6"
+         x="79.200439"
+         y="259.43204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">Elland Road P+R</tspan></text>
+    <g
+       id="g908-6"
+       transform="translate(-137.00001,-4.9832852)">
+      <text
+         id="text885-6"
+         y="264.04233"
+         x="208.19211"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:end;text-anchor:end;stroke-width:0.26458332"
+           y="264.04233"
+           x="208.19211"
+           id="tspan883-8"
+           sodipodi:role="line">P+R</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path887-9"
+         d="m 202.45898,261.37575 h 5.75282"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path887-0-4"
+         d="m 202.45898,264.35231 h 5.75282"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000001,243 H 75"
+       id="path840-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618179"
+       y="244.2767"
+       id="text838-4-99-28"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3"
+         x="70.618179"
+         y="244.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Gelderd Road</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000003,230 H 75"
+       id="path840-0-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618179"
+       y="231.2767"
+       id="text838-4-99-28-1"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6"
+         x="70.618179"
+         y="231.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Holbeck North</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000004,209 H 75"
+       id="path840-0-9-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618179"
+       y="210.2767"
+       id="text838-4-99-28-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3"
+         x="70.618179"
+         y="210.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Water Lane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89"
+       y="188.94009"
+       id="text838-4-99-2-6-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6-3"
+         x="89"
+         y="188.94009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Leeds</tspan></text>
+    <g
+       transform="translate(-123.00001,-66.999995)"
+       id="g998-7-3-2-6">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-6-3-1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-5-6-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89"
+       y="192.76041"
+       id="text838-4-99-2-6-6-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8-7"
+         x="89"
+         y="192.76041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Station</tspan></text>
+    <g
+       id="g1945"
+       transform="matrix(0.0334206,0,0,0.0334206,85.211942,190.37726)">
+	<path
+   id="path1943"
+   d="m 203.1,289.5 v 16.54 h -48.42 l -47.24,23.62 h 95.67 v 16.54 h -95.67 l 62.6,25.98 H 127.52 L 72.01,346.2 H 23.59 v -16.54 h 48.42 l 47.24,-23.62 H 23.58 V 289.5 h 95.67 l -62.6,-25.98 h 42.52 l 55.51,25.98 48.42,-10e-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ff4200" />
+
+</g>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.999999,196 c -3.731297,0 -6.000001,-2.2457 -6.000001,-6 v -72"
+       id="path1957"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="113"
+       y="188.94009"
+       id="text838-4-99-2-6-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6-5"
+         x="113"
+         y="188.94009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Trinity</tspan></text>
+    <g
+       transform="translate(-99,-66.999995)"
+       id="g998-7-3-2-7">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-6-3-5"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-5-6-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="113"
+       y="192.76041"
+       id="text838-4-99-2-6-6-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8-5"
+         x="113"
+         y="192.76041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Square</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.99999,176 H 81 c -3.710129,0 -6.000002,-2.45009 -6.000002,-6"
+       id="path2007"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.99999,196 c 3.7313,0 6,-2.2457 6,-6 v -48"
+       id="path1957-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g998-79"
+       transform="translate(-84,-86.999995)">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-4"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="130.17732"
+       y="173.89642"
+       id="text838-48"><tspan
+         sodipodi:role="line"
+         id="tspan836-3"
+         x="130.17732"
+         y="173.89642"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;stroke-width:0.26458332">The Headrow</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000005,184 H 75"
+       id="path840-0-9-8-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618187"
+       y="185.27672"
+       id="text838-4-99-28-1-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9"
+         x="70.618187"
+         y="185.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Tower Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.00002"
+       y="168.52397"
+       id="text838-4-99-2-6-61-45"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-4-7"
+         x="103.00002"
+         y="168.52397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.00002"
+       y="171.84819"
+       id="text838-4-99-2-6-6-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-5-2"
+         x="103.00002"
+         y="171.84819"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Square</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 102.99999,176 v -3"
+       id="path840-0-5-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162"
+       y="182.06329"
+       id="text838-4-99-2-6-0-62"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6-4"
+         x="162"
+         y="182.06329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Victoria</tspan></text>
+    <g
+       transform="translate(-50,-86.999995)"
+       id="g998-7-3-2-4">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-6-3-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-5-6-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162"
+       y="185.64095"
+       id="text838-4-99-2-6-6-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8-1"
+         x="162"
+         y="185.64095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182"
+       y="168.7005"
+       id="text838-4-99-2-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-21"
+         x="182"
+         y="168.7005"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">City Bus</tspan></text>
+    <g
+       transform="translate(-30,-86.999995)"
+       id="g998-7-3-1">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-6-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-5-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182"
+       y="172.56805"
+       id="text838-4-99-2-6-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-88"
+         x="182"
+         y="172.56805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="71.376526"
+       y="169.2767"
+       id="text838-4-99-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-4"
+         x="71.376526"
+         y="169.2767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Wellington Street P+R</tspan></text>
+    <g
+       transform="translate(-137.00001,-94.999995)"
+       id="g998-7-30">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g908-0"
+       transform="translate(-123.75301,-94.911272)">
+      <text
+         id="text885-0"
+         y="264.04233"
+         x="208.19211"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:end;text-anchor:end;stroke-width:0.26458332"
+           y="264.04233"
+           x="208.19211"
+           id="tspan883-6"
+           sodipodi:role="line">P+R</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path887-4"
+         d="m 202.45898,261.37575 h 5.75282"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path887-0-5"
+         d="m 202.45898,264.35231 h 5.75282"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000003,154 H 75"
+       id="path840-0-9-8-1-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618187"
+       y="155.27672"
+       id="text838-4-99-28-1-7-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9-6"
+         x="70.618187"
+         y="155.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Kirstall Road</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000001,141 H 75"
+       id="path840-0-9-8-1-0-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618187"
+       y="142.27672"
+       id="text838-4-99-28-1-7-6-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9-6-0"
+         x="70.618187"
+         y="142.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Studio Way</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.000001,129 H 75"
+       id="path840-0-9-8-1-0-2-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.618187"
+       y="130.27672"
+       id="text838-4-99-28-1-7-6-1-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9-6-0-0"
+         x="70.618187"
+         y="130.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Willow Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="71.376526"
+       y="118.27672"
+       id="text838-4-99-2-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-4-5"
+         x="71.376526"
+         y="118.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Cardigan Fields</tspan></text>
+    <g
+       transform="translate(-137.00001,-146)"
+       id="g998-7-30-6">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-2-5"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-2-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.99999,155 h 3"
+       id="path840-0-9-8-1-0-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="123.61818"
+       y="156.27672"
+       id="text838-4-99-28-1-7-6-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9-6-9"
+         x="123.61818"
+         y="156.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Queen Street</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="124.37653"
+       y="144.27672"
+       id="text838-4-99-2-7-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-4-5-4"
+         x="124.37653"
+         y="144.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">University of Leeds</tspan></text>
+    <g
+       transform="translate(-84,-120)"
+       id="g998-7-30-6-2">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-2-5-1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-2-2-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 190.99999,176 c 3.7313,0 6,-2.2457 6,-6 v -42"
+       id="path1957-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.99999,151 h 3"
+       id="path840-0-9-8-1-0-2-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="192.61818"
+       y="152.27672"
+       id="text838-4-99-28-1-7-6-1-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9-6-9-0"
+         x="192.61818"
+         y="152.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Centenary Square</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.99999,140 h 3"
+       id="path840-0-9-8-1-0-2-8-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="192.61818"
+       y="141.27672"
+       id="text838-4-99-28-1-7-6-1-5-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-3-6-3-9-6-9-0-6"
+         x="192.61818"
+         y="141.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Lincoln Green Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="193.37653"
+       y="130.27672"
+       id="text838-4-99-2-7-6-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-4-5-4-0"
+         x="193.37653"
+         y="130.27672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Saint James' Hospital</tspan></text>
+    <g
+       transform="translate(-15,-134)"
+       id="g998-7-30-6-2-9">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-2-5-1-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-2-2-3-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="259.3765"
+       y="164.27673"
+       id="text838-4-99-2-7-6-5-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-4-5-4-0-8"
+         x="259.3765"
+         y="164.27673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;stroke-width:0.26458332">Cross Green</tspan></text>
+    <g
+       transform="translate(51,-99.999995)"
+       id="g998-7-30-6-2-9-0">
+      <circle
+         r="2.5487356"
+         cy="263"
+         cx="212"
+         id="path819-0-2-5-1-9-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.6634054"
+         cy="263"
+         cx="212"
+         id="path819-1-7-2-2-3-8-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30527878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="251"
+       y="182.63124"
+       id="text838-4-99-2-6-0-62-7"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6-4-7"
+         x="251"
+         y="182.63124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Easy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="251"
+       y="186.20889"
+       id="text838-4-99-2-6-6-8-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8-1-9"
+         x="251"
+         y="186.20889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Road</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 250.99999,179 v -3"
+       id="path840-0-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="231"
+       y="182.56038"
+       id="text838-4-99-2-6-0-62-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6-4-7-5"
+         x="231"
+         y="182.56038"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="231"
+       y="186.3979"
+       id="text838-4-99-2-6-6-8-7-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8-1-9-1"
+         x="231"
+         y="186.3979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Hill</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 230.99999,179 v -3"
+       id="path840-0-5-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="208"
+       y="182.56038"
+       id="text838-4-99-2-6-0-62-7-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-6-4-7-5-1"
+         x="208"
+         y="182.56038"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Saxton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="208"
+       y="186.3979"
+       id="text838-4-99-2-6-6-8-7-1-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan836-7-6-9-7-2-8-1-9-1-9"
+         x="208"
+         y="186.3979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;stroke-width:0.26458332">Gardens</tspan></text>
+    <path
+       style="fill:none;stroke:#2e63d3;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.99999,179 v -3"
+       id="path840-0-5-2-5-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
