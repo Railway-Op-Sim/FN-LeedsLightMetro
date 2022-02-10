@@ -1,0 +1,13 @@
+rly_file = "LeedsLightMetro.rly"
+ttb_files = []
+img_files = [ "LeedsLightMetro.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-02-10"
+version = "1.0.0"
+country_code = "FN"
+factual = false
+description = ""
+display_name = "Leedslightmetro"
+name = "Leedslightmetro"
+author = "Daniel Gill"
+contributors = []
