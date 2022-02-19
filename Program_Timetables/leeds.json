@@ -1,0 +1,76 @@
+{
+    "startTime":"05:46",
+    "dataTemplates": [
+        {
+            "keyword":"DLR",
+            "maxSpeed":64,
+            "mass":36,
+            "maxBrake":18,
+            "power":520
+        }
+    ],
+    "services": [
+        {
+            "ref":"DT01",
+            "description":"Depot to Water Lane",
+            "dataTemplate":"DLR",
+            "startSpeed":40,
+            "increment":2,
+            "events": [
+                "05:47;Snt;24-44 24-43",
+                "05:48;Water Lane",
+                "05:49;Fns;TU01"
+            ],
+            "times": [
+                "00:00"
+            ]
+        },
+        {
+            "ref":"TU01",
+            "description":"Water Lane to University of Leeds",
+            "increment":1,
+            "events": [
+                "05:49;Sns;DT01",
+                "05:49;Water Lane",
+                "05:50;05:50;Leeds Station",
+                "05:51;05:51;Trinity Square",
+                "05:52;05:52;The Headrow",
+                "05:53;05:53;Queen Square",
+                "05:54;University of Leeds",
+                "05:54;cdt",
+                "05:55;Fns;US01"
+            ],
+            "times": [
+                "00:00"
+            ]
+        },
+        {
+            "ref":"US01",
+            "description":"University of Leeds to Stourton P+R",
+            "increment":1,
+            "events": [
+                {"US01":"23:55;Sns;TU01"},
+                "00:00;University of Leeds",
+                "00:01;00:01;Queen Square",
+                "00:02;00:02;The Headrow",
+                "00:03;00:03;Trinity Square",
+                "00:04;00:04;Leeds Station",
+                "00:05;00:05;Water Lane",
+                "00:06;00:06;Temple Works",
+                "00:06;00:06;Sweet Street",
+                "00:07;00:07;Crown Point",
+                "00:08;00:08;Printworks",
+                "00:09;00:09;Hunslet Park",
+                "00:10;00:10;Knowesthorpe",
+                "00:11;00:11;Low Road",
+                "00:12;00:12;Thwaite Gate",
+                "00:13;00:13;Queen Street",
+                "00:14;Stourton P+R",
+                "Frh"
+            ],
+            "times": [
+                "06:00"
+            ]
+        }
+    ]
+}
