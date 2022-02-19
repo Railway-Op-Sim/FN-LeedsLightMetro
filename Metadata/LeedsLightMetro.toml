@@ -1,5 +1,5 @@
 rly_file = "LeedsLightMetro.rly"
-ttb_files = []
+ttb_files = [ "leeds.ttb",]
 img_files = [ "LeedsLightMetro.bmp",]
 doc_files = [ "README.md",]
 release_date = "2022-02-10"
